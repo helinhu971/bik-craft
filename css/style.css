@@ -16,6 +16,7 @@
 
 /* bicicletas */
 @import '../css/bicicletas/bicicletas-lista.css';
+@import '../css/bicicletas/bicicletas.css';
 
 
 /* seguros */
@@ -26,6 +27,8 @@
 /* termos */
 
 @import '../css/termos/termos.css';
+
+
 
 
 
